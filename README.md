@@ -1,4 +1,4 @@
-My Phone Info app as a Free app. This SERVICE is provided by at no cost and is intended for use as is.
+This is a Free app. This SERVICE is provided by at no cost and is intended for use as is.
 
 This page is used to inform users regarding policies with the collection, use, and disclosure of Information if anyone decided to use.
 
